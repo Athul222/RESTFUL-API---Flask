@@ -1,6 +1,6 @@
 # RESTFUL API
 
-Hey folks, I've created a RESTFUL API using flask, SQLAlchemy where you can search for a different endpoints to get different variety of responses. I've provided a detailed API description on the DESCRIPTION.md. Hope you find this usefull!
+Hey folks, I've created a RESTFUL API using flask, SQLAlchemy where you can search for a different endpoints to get different variety of responses. I've provided a detailed [API description](https://documenter.getpostman.com/view/32134553/2sA3dxFCaB). Hope you find this usefull!
 
 ## Table of Contents
 
